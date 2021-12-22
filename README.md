@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-kim-hyunjin.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=10&exclude_repo=hello-java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=10&exclude_repo=hello-java,github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kim-hyunjin/kim-hyunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
