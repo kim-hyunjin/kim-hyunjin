@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-hyunjin&hide=starts,contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=10&exclude_repo=vs-game-front)](https://github.com/anuraghazra/github-readme-stats)
 
