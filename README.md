@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-kim-hyunjin.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- fork한 repository는 통계에 적용 안되는 듯 -->
 [![Top Langs](https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=10&exclude_repo=hello-java)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
