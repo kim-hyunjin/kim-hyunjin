@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://gh-hits.nomadcoders.workers.dev/view?username=kim-hyunjin)
+
 [![Anurag's GitHub stats](https://github-readme-stats-kim-hyunjin.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues)](https://github.com/kim-hyunjin/github-readme-stats)
 
 <!-- fork한 repository는 통계에 적용 안되는 듯 -->
