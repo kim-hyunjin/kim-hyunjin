@@ -5,7 +5,7 @@
 [![HyunJin's GitHub stats](https://github-readme-stats-kim-hyunjin.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues&count_private=true&show_icons=true)](https://github.com/kim-hyunjin/github-readme-stats)
 
 <!-- fork한 repository는 통계에 적용 안되는 듯 -->
-[![Top Langs](https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=10&hide=html,css&exclude_repo=hello-java)](https://github.com/kim-hyunjin/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=8&hide=html,css&exclude_repo=hello-java)](https://github.com/kim-hyunjin/github-readme-stats)
 
 🌱 I’m currently learning ...
 
