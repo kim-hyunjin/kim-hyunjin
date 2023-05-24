@@ -7,7 +7,7 @@
 <!-- fork한 repository는 통계에 적용 안되는 듯 -->
 [![Top Langs](https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=8&hide=html,css&exclude_repo=hello-java)](https://github.com/kim-hyunjin/github-readme-stats)
 
-[![Hyunjin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kim_hyunjin)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyunjin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KimHyunJin)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning ...
 
