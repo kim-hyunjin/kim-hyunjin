@@ -9,7 +9,9 @@
 
 🌱 I’m currently learning ...
 
-[![Readme Card](https://github-readme-stats-kim-hyunjin.vercel.app/api/pin/?username=kim-hyunjin&repo=hello-flutter)](https://github.com/kim-hyunjin/github-readme-stats)
+[![flutter](https://github-readme-stats-kim-hyunjin.vercel.app/api/pin/?username=kim-hyunjin&repo=hello-flutter)](https://github.com/kim-hyunjin/github-readme-stats)
+
+[![android](https://github-readme-stats-kim-hyunjin.vercel.app/api/pin/?username=kim-hyunjin&repo=hello-android)](https://github.com/kim-hyunjin/github-readme-stats)
 
 <!--
 **kim-hyunjin/kim-hyunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
