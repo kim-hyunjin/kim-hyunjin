@@ -2,7 +2,7 @@
 
 ![Views](https://gh-hits.nomadcoders.workers.dev/view?username=kim-hyunjin)
 
-<h2 align=center>My Skills</h2>
+<h2>My Skills</h2>
 <div>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -18,7 +18,9 @@
 <br/>
 <div>
   <img src="https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=8&hide=html,css&exclude_repo=hello-java" height="180" />
+  <!--
   <img src="https://github-readme-stats-kim-hyunjin.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues&count_private=true&show_icons=true" height="180" />
+  -->
 </div>
 
 <!--
