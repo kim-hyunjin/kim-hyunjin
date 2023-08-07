@@ -17,7 +17,9 @@
 </div>
 <br/>
 <div>
+  <!--
   <img src="https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=8&hide=html,css&exclude_repo=hello-java" height="180" />
+  -->
   <!--
   <img src="https://github-readme-stats-kim-hyunjin.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues&count_private=true&show_icons=true" height="180" />
   -->
