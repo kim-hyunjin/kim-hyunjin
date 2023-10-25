@@ -1,7 +1,3 @@
-### It's me, James 👋
-
-![Views](https://gh-hits.nomadcoders.workers.dev/view?username=kim-hyunjin)
-
 <h2>My Skills</h2>
 <div>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -14,15 +10,6 @@
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="Next" src ="https://img.shields.io/badge/Next-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-</div>
-<br/>
-<div>
-  <!--
-  <img src="https://github-readme-stats-kim-hyunjin.vercel.app/api/top-langs/?username=kim-hyunjin&layout=compact&langs_count=8&hide=html,css&exclude_repo=hello-java" height="180" />
-  -->
-  <!--
-  <img src="https://github-readme-stats-kim-hyunjin.vercel.app/api?username=kim-hyunjin&hide=stars,contribs,issues&count_private=true&show_icons=true" height="180" />
-  -->
 </div>
 
 <!--
