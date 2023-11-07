@@ -5,6 +5,7 @@
   <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="TYPESCRIPT" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img alt="KOTLIN" src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />
+  <img alt="KOTLIN" src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 <br/>
 <div>
