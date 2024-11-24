@@ -10,9 +10,9 @@
 </div>
 <br/>
 <div>
+  <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="Next" src ="https://img.shields.io/badge/Next-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img alt="ANDROID" src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
   <img alt="SPRING" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <!--   <img alt="FLUTTER" src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" /> -->
