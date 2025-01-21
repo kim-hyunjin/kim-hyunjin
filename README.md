@@ -1,33 +1,33 @@
-<h2>My Skills</h2>
-<div>
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img alt="TYPESCRIPT" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img alt="JAVA" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="KOTLIN" src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />
-<!--   <img alt="DART" src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> -->
-</div>
-<br/>
-<div>
-  <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  <img alt="Next" src ="https://img.shields.io/badge/Next-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img alt="ANDROID" src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="SPRING" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-<!--   <img alt="FLUTTER" src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" /> -->
-</div>
-<!--
-**kim-hyunjin/kim-hyunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hyunjin Kim!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a developer who enjoys tackling challenges and exploring diverse areas of technology. Here's what I’m currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I’m Learning
+- 📱 **Mobile App Development**: Deeply focused on iOS development, building sleek and user-friendly applications.
+- 🎮 **Game Development**: Experimenting with game mechanics and development using Unity and Unreal Engine.
+
+---
+
+## 💼 What I’m Working On
+At my current job, I’m:
+- 🌐 **Web Development**: Creating dynamic and responsive web applications using Vue.js.
+- 🤖 **Android Development**: Building efficient and reliable mobile applications.
+
+---
+
+## 🌟 Featured Repository
+Check out my **[Learning Code Archive](https://github.com/kim-hyunjin/learning-code-archive)**, where I document all my coding experiments, examples, and projects as part of my learning journey.
+
+---
+
+## 📫 Let’s Connect!
+- **LinkedIn**: [linkedin.com/in/hyunjin-kim-3b6733231](https://www.linkedin.com/in/hyunjin-kim-3b6733231/)
+- **Email**: [hyunjin1612@gmail.com](mailto:hyunjin1612@gmail.com) 
+
+Feel free to explore my repositories to see my projects and learning progress. I’m always open to collaborations and discussions about technology and development.
+
+---
+
+Thanks for visiting, and let’s build something amazing together! 🚀
