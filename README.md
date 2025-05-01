@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I’m a developer who enjoys tackling challenges a
 ---
 
 ## 🌱 What I’m Learning
-- 📱 **Mobile App Development**: Deeply focused on iOS development, building sleek and user-friendly applications.
-- 🎮 **Game Development**: Experimenting with game mechanics and development using Unity and Unreal Engine.
+- ☕ Java Backend Development: Studying backend architecture, Spring Boot framework, and building scalable server-side applications.
 
 ---
 
