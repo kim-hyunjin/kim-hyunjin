@@ -1,18 +1,6 @@
 # 👋 Hi, I'm Hyunjin Kim!
 
-Welcome to my GitHub profile! I’m a developer who enjoys tackling challenges and exploring diverse areas of technology. Here's what I’m currently focused on:
-
----
-
-## 🌱 What I’m Learning
-- ☕ Java Backend Development: Studying backend architecture, Spring Boot framework, and building scalable server-side applications.
-
----
-
-## 💼 What I’m Working On
-At my current job, I’m:
-- 🌐 **Web Development**: Creating dynamic and responsive web applications using Vue.js.
-- 🤖 **Android Development**: Building efficient and reliable mobile applications.
+Welcome to my GitHub profile! I’m a developer who enjoys tackling challenges and exploring diverse areas of technology.
 
 ---
 
